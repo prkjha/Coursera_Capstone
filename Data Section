@@ -1,0 +1,10 @@
+Data Section
+We really become happy when we get the good quality food in a restaurants.So i would like help everyone to get the best restaurant in their area using data science and machine learning.
+
+Description
+By using foursqaure api here, we are going to locate the best resturants in Agra.
+So anybody from all round the agra can find the best resturants in their locality based on the location (in a particular range).
+In this problem we are going to use the Zomato retaurants data which contains resturants name,rating with their latitude and longitude. As this much detail will help us to properly analyse location of restaurants and their neighborhood.
+we can download the dataset for this project from kaggle as this dataset will help us to analyse the dataset and get the best resturant in a particular locality.
+By using the foursquare we can get all the venues in every neighborhood which will help us to get the best resturants in a locality
+Link to download dataset : https://www.kaggle.com/shrutimehta/zomato-restaurants-data
